@@ -1,20 +1,20 @@
 {
-  "name": "Vendetta Dark",
-  "description": "A simple Vendetta theme for AMOLED screens",
+  "name": "Vendetta AMOLED Dark",
+  "description": "A dark Vendetta theme for AMOLED screens",
   "authors": [
     {
-      "name": "CadmarLegend"
+      "name": "Stephano069"
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#62386b"],
-    "HEADER_SECONDARY": ["#62386b"],
-    "TEXT_NORMAL": ["#F3E8FF"],
+    "HEADER_PRIMARY": ["#41388a"],
+    "HEADER_SECONDARY": ["#41388a"],
+    "TEXT_NORMAL": ["#fbfafc"],
     "TEXT_MUTED": ["#5E5E5E"],
     "TEXT_LINK": ["#C48EEE"],
-    "INTERACTIVE_NORMAL": ["#B599C5"],
-    "INTERACTIVE_HOVER": ["#B988BC"],
-    "INTERACTIVE_ACTIVE": ["#E1C5FD"],
+    "INTERACTIVE_NORMAL": ["#9999c5"],
+    "INTERACTIVE_HOVER": ["#9988bc"],
+    "INTERACTIVE_ACTIVE": ["#ccc5fd"],
     "INTERACTIVE_MUTED": ["#5F5160"],
     "BACKGROUND_PRIMARY": ["#0A0A0A"],
     "BACKGROUND_SECONDARY": ["#0A0A0A"],
@@ -28,8 +28,8 @@
 
     "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
     "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#5a4991"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5a4991"],
     "BACKGROUND_MODIFIER_ACCENT": ["#0A0A0A"],
     "SCROLLBAR_THIN_THUMB": ["#0A0A0A"],
     "SCROLLBAR_THIN_TRACK": ["transparent"],
@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/cadmarlegend/vendetta-dark/main/background.png",
+    "url": "https://raw.githubusercontent.com/Stephano069/vendetta-AMOLED-dark/main/background.png",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
